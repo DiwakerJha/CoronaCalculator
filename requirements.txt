@@ -1,0 +1,9 @@
+Pandas
+numpy
+functools
+plotly_express
+Script
+countryinfo
+itertools
+math
+bokeh
