@@ -2,8 +2,4 @@ numpy
 pandas
 plotly_express
 countryinfo
-itertools
-math
 scipy
-functools
-itertools
