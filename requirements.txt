@@ -1,9 +1,9 @@
-Pandas
 numpy
-functools
+pandas
 plotly_express
-Script
 countryinfo
 itertools
 math
-bokeh
+scipy
+functools
+itertools
